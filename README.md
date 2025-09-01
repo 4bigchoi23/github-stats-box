@@ -29,3 +29,6 @@
     - **K_FORMAT:** Boolean value, If `true`, large numbers values will be formatted with a "k", for example `1.5k`
 
 That's it! You gist will be updated immediately, and every 12 hours after that
+
+
+<!-- Security scan triggered at 2025-09-01 22:56:43 -->
